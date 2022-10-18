@@ -1,3 +1,3 @@
 # Welcome to Recommended React App
 
-Project Link [Live](https://github.com/facebook/create-react-app).
+Project Link [Live](https://recommendationaiapp.netlify.app).
