@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Ain Dubai",
+        "desc": "Observation Decks & Towers",
+        "img": "",
+        "country": "UAE",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g295424-d15635653-Reviews-Ain_Dubai-Dubai_Emirate_of_Dubai.html",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/6b/00/43/caption.jpg?w=400&h=-1&s=1"
+    },
+    {
+        "name": "Burj Khalifa",
+        "desc": "Described as both a ‘Vertical City’ and ‘A Living Wonder,’ Burj Khalifa, developed by Dubai-based Emaar Properties PJSC, is the world’s tallest building. Rising gracefully from the desert, Burj Khalifa honours the city with its extraordinary union of art, engineering and meticulous craftsmanship. At 828 metres (2,716.5 ft), the 200 plus storey Burj Khalifa has 160 habitable levels, the most of any building in the world. The tower was inaugurated on January 4, 2010, and is responsible for a number of world-firsts. The tower became the world’s tallest man-made structure just 1,325 days after excavation work started in January 2004. Burj Khalifa utilised a record-breaking 330,000 cubic metres of concrete; 39,000 tonnes of steel reinforcement; 103,000 square metres of glass; and 15,500 square metres of embossed stainless steel. The tower took 22 million man hours to build.",
+        "img": "",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g295424-d676922-Reviews-Burj_Khalifa-Dubai_Emirate_of_Dubai.html",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/49/93/photo5jpg.jpg?w=400&h=300&s=1"
+    },    
+    {
+        "name": "The Dubai Mall",
+        "desc": "This downtown mall is known for luxury stores like Cartier and Harry Winston. It also has an aquarium, ice rink, and 360-degree views of the city from the world’s tallest building, The Burj Khalifa.",
+        "img": "",
+        "country": "UAE",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g295424-d1210327-Reviews-The_Dubai_Mall-Dubai_Emirate_of_Dubai.html",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8c/0c/1a/taken-5-years-ago-it.jpg?w=400&h=300&s=1"
+    },
+    {
+        "name": "Museum Of The Future",
+        "desc": "Museum of the Future is a place to experience what could be. Visitors are invited to explore immersive future environments designed to stimulate their senses and expand their minds. We aim to inspire every person who walks through our doors to become engaged and active participants in creating a better future.",
+        "img": "",
+        "country": "UAE",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g295424-d23751344-Reviews-Museum_Of_The_Future-Dubai_Emirate_of_Dubai.html",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/80/4b/0c/caption.jpg?w=400&h=300&s=1"
+    },
+    {
+        "name": "Al Seef",
+        "desc": "Al Seef is a bustling destination, spread over 1.8km, and rooted in Dubai’s culture and heritage, with a charming atmosphere that resonates throughout its distinct heritage and contemporary areas.",
+        "img": "",
+        "country": "UAE",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g295424-d12982407-Reviews-Al_Seef-Dubai_Emirate_of_Dubai.html",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/36/4a/8f/1180-kite-beach-largejpg.jpg?w=400&h=300&s=1"
+    },
+
+    {
+        "name": "Grace Bay Beach",
+        "desc": "This stretch of powdery sand in the Turks and Caicos Islands is the world's best beach, according to Tripadvisor users. Click through the gallery to see the rest of the best.",
+        "img": "",
+        "category": "ocean",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220223091414-01b-tripadvisor-top-10-beaches-world.jpg"
+    },
+    {
+        "name": "Varadero Beach",
+        "desc": "Cuba's Varadero Beach offers white sands, palm trees and a tropical setting.",
+        "img": "",
+        "category": "ocean",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220222231616-02-tripadvisor-top-10-beaches-world.jpg"
+    },
+    {
+        "name": "Turquoise Bay",
+        "desc": " In Cape Range National Park in Exmouth, Western Australia, Turquoise Bay is a popular snorkeling spot.",
+        "img": "",
+        "category": "ocean",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220222231617-03-tripadvisor-top-10-beaches-world.jpg"
+    },    
+    {
+        "name": "Quarta Praia",
+        "desc": "Tripadvisor users praise this beach in Morro de Sao Paulo, Brazil, for being a haven of calm with relatively few tourists.",
+        "img": "",
+        "category": "ocean",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220223041049-04-tripadvisor-top-10-beaches-world.jpg"
+    },
+    {
+        "name": "Eagle Beach",
+        "desc": "Absolutely gorgeous, says one Tripadvisor user of this beach in Oranjestad, the capital of the Dutch Caribbean island of Aruba",
+        "img": "",
+        "category": "ocean",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220223041051-05-tripadvisor-top-10-beaches-world.jpg"
+    },
+    {
+        "name": "Radhanagar Beach",
+        "desc": "There are plenty of incredible beaches India's Andaman Islands, but Radhanagar on Havelock Island stands out for its pristine conditions and world-class sunsets.",
+        "img": "",
+        "category": "ocean",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220223041053-06-tripadvisor-top-10-beaches-world.jpg"
+    },
+    {
+        "name": "Baia do Sancho",
+        "desc": "This beach on Brazil's Fernando de Noronha archipelago is fairly remote and accessibility isn't easy, but Tripadvisor users think it's worth the effort.",
+        "img": "",
+        "category": "ocean",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220223041054-07-tripadvisor-top-10-beaches-world.jpg"
+    },
+    {
+        "name": "Trunk Bay Beach",
+        "desc": "In Virgin Islands National Park, Trunk Bay is known for leatherback turtles.",
+        "img": "",
+        "category": "ocean",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220223041055-08-tripadvisor-top-10-beaches-world.jpg"
+    },
+    {
+        "name": "Baía dos Golfinhos",
+        "desc": "Dolphins are one of the top attractions at this stretch of coastline south of Natal, Brazil.",
+        "img": "",
+        "category": "ocean",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_900,c_fill,g_auto,h_506,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220223041114-09-tripadvisor-top-10-beaches-world.jpg"
+    },
+    {
+        "name": "Gavi Forest",
+        "desc": "Gavi is one of the most pristine eco-tourist spots that is well preserved and untainted by modern civilization and is among the most beautiful forest places to visit in Kerala. This natural beauty is located on the outskirts of Pathanamthitta. Pristine  Pathanamthitta is blessed with abundant Kerala forest that helped this green canopy win the status of the second least polluted town in India.",
+        "img": "",
+        "category": "forest",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://irisholidays.com/keralatourism/wp-content/uploads/2020/01/gavi-forest-places-in-kerala.gif"
+    },
+    {
+        "name": "Gavi Forest",
+        "desc": "Gavi is one of the most pristine eco-tourist spots that is well preserved and untainted by modern civilization and is among the most beautiful forest places to visit in Kerala. This natural beauty is located on the outskirts of Pathanamthitta. Pristine  Pathanamthitta is blessed with abundant Kerala forest that helped this green canopy win the status of the second least polluted town in India.",
+        "img": "",
+        "category": "forest",
+        "country": "UAE",
+        "link": "https://edition.cnn.com/travel/article/tripadvisor-awards-best-beaches-2022/index.html",
+        "thumbnail": "https://irisholidays.com/keralatourism/wp-content/uploads/2020/01/gavi-forest-places-in-kerala.gif"
+    },
+    {
+        "name": "Monteverde Cloud Forest, Costa Rica",
+        "desc": "Costa Rica’s central highlands are always shrouded in mist, making any traveller feel as though they have been transported to another world entirely. Dotted with exquisite cloud forests, this biodiverse region is home to some of the most beautiful landscapes in the world. Costa Rica’s forests are known for their elevated and verdant nature, and the country is lucky enough to be home to six different cloud forest zones.",
+        "img": "",
+        "category": "forest",
+        "country": "UAE",
+        "link": "https://www.jacadatravel.com/all/travel-guides/most-beautiful-forests-in-the-world/",
+        "thumbnail": "https://www.jacadatravel.com/wp-content/uploads/fly-images/191902/river-towards-pacuare-lodge-552x310-cc.jpg"
+    },
+    {
+        "name": "Daintree Rainforest, Australia",
+        "desc": "Listed as a UNESCO World Heritage Site in 1988, Northern Queensland’s Daintree Rainforest is one of the most significant ecosystems in the world. This dense green jungle is so beautiful that it was used as inspiration for the landscapes of blockbuster movie Avatar. For nature lovers and adventure seekers alike, the Daintree Rainforest is Australia’s best kept secret. Visitors can trek through dense jungle, soar through the forest canopy on a zip line or go crocodile spotting along the Daintree River. Home to an incredible 122 rare and endangered species, the Daintree Rainforest is a haven for wildlife enthusiasts.",
+        "img": "",
+        "category": "forest",
+        "country": "UAE",
+        "link": "https://www.jacadatravel.com/all/travel-guides/most-beautiful-forests-in-the-world/",
+        "thumbnail": "https://www.jacadatravel.com/wp-content/uploads/fly-images/173176/daintree-river-1-552x310-cc.jpg"
+    },
+    {
+        "name": "Amazon Rainforest, Latin America",
+        "desc": "Verdant rainforest, isolated tribes and exotic wildlife; there are few people who haven’t heard of the world famous Amazon rainforest. This vast natural phenomenon spans across an incredible nine countries, so travellers are spoilt for choice. In Brazil, the river is at its widest, often several kilometers across. The region’s dry land means the forest trees are older and taller than that of the forest elsewhere in the Amazon.",
+        "img": "",
+        "category": "forest",
+        "country": "UAE",
+        "link": "https://www.jacadatravel.com/all/travel-guides/most-beautiful-forests-in-the-world/",
+        "thumbnail": "https://www.jacadatravel.com/wp-content/uploads/fly-images/176755/amazon-sunset-552x310-cc.jpg"
+    },
+    {
+        "name": "Bwindi Impenetrable Forest, Uganda",
+        "desc": "World-renowned for its gorilla tracking opportunities, the Bwindi Impenetrable Forest in Uganda is one of our favourite forests. Home to the highest concentration of primates on earth, this forest is famed for its lush jungle and tropical wildlife. Around 10 habituated gorilla families live in Bwindi National Park, and the journey you take to track them is nothing short of adventurous. Suited to more daring travellers, Bwindi’s terrain is such that you start your trek on high ground before descending into a valley and then tackling an arduous climb. Slopes can often be steep and there are no trails, giving Bwindi its impenetrable reputation.",
+        "img": "",
+        "category": "forest",
+        "country": "UAE",
+        "link": "https://www.jacadatravel.com/all/travel-guides/most-beautiful-forests-in-the-world/",
+        "thumbnail": "https://www.jacadatravel.com/wp-content/uploads/fly-images/147432/event__chimpanzee_uganda2-552x310-cc.jpg"
+    },
+    {
+        "name": "Arashiyama Bamboo Grove, Japan",
+        "desc": "Located in Kyoto, the Arashiyama Bamboo Grove is one of Japan’s top sights for good reason. As you venture along the path that cuts through the middle of the forest, you’ll feel as though you’re walking into another universe. Soaring stalks of bamboo surround either side of the path, and this forest is filled with many photo opportunities. These thick bamboo stalks seem to continue endlessly in every direction, and a soft light fills the gaps between the trees beautifully. The grove runs from outside the north gate of the charming Tenryū-ji temple to the Ōkōchi Sansō villa, and is at its most atmospheric on the approach to this villa.",
+        "img": "",
+        "category": "forest",
+        "country": "UAE",
+        "link": "https://www.jacadatravel.com/all/travel-guides/most-beautiful-forests-in-the-world/",
+        "thumbnail": "https://www.jacadatravel.com/wp-content/uploads/fly-images/136480/event__Arashiyama_8-552x310-cc.jpg"
+    },
+    {
+        "name": "Trossachs National Park, Scotland",
+        "desc": "One of the United Kingdom’s largest National Nature Reserves, Scotland’s Great Trossachs Forest is a huge woodland restoration project. Over the first 10 years of the 200 year project, more than 2.5 million trees have been planted – the Great Trossachs Forest is one of the youngest forests in the world and is set to be one of the largest in a couple of centuries. Covering 160 square kilometres, this newly planted forest is set to restore habitats of invertebrates, mammals, birds and other wildlife.",
+        "img": "",
+        "category": "forest",
+        "country": "UAE",
+        "link": "https://www.jacadatravel.com/all/travel-guides/most-beautiful-forests-in-the-world/",
+        "thumbnail": "https://www.jacadatravel.com/wp-content/uploads/fly-images/174650/falls-of-falloch-trossachs-552x310-cc.jpg"
+    },
+    {
+        "name": "Batang Ai National Park, Borneo",
+        "desc": "Borneo is an island covered in rainforest, and there are few better places to explore the natural habitat than in one of the country’s many national parks. The Batang Ai National Park sits close to the border of Indonesia and is tucked deep into the Borneo jungle. The area was flooded in the 1980s to create a reservoir, and you can still see treetops sticking out of the water here. This dense jungle is great for travellers wanting to get off the beaten track, offering longhouse visits, trail hiking and longboat river cruises.",
+        "img": "",
+        "category": "forest",
+        "country": "UAE",
+        "link": "https://www.jacadatravel.com/all/travel-guides/most-beautiful-forests-in-the-world/",
+        "thumbnail": "https://www.jacadatravel.com/wp-content/uploads/fly-images/281901/borneo-river-552x310-cc.jpg"
+    },
+    {
+        "name": "CUERNOS DEL PAINE",
+        "desc": "Los Cuernos del Paine or ‘Paine horns’ refer to a set of sharp granite peaks in Torres del Paine National Park, all of which rise above 2,000m.The spiky peaks have delightfully fitting names – among them Aleta de Tiburón (Shark’s Fin), La Espada (The Sword) and La Hoja (The Blade) and are located halfway along the W trek, one of the best hiking trails in Torres del Paine.",
+        "img": "",
+        "category": "mountain",
+        "country": "UAE",
+        "link": "https://www.atlasandboots.com/travel-blog/most-beautiful-mountains-in-the-world/",
+        "thumbnail": "https://www.atlasandboots.com/wp-content/uploads/2019/05/cuernos-del-paine-most-beautiful-mountains-in-the-world-1024x683.jpg"
+    },
+    {
+        "name": "MOUNT THOR",
+        "desc": "The hulking Mount Thor is simply extraordinarily. Located on Canada’s remote Baffin Island, Thor is home to the world’s greatest vertical drop. It would take a terrifying 36 seconds for a 170lb (77kg) person to fall the 1,250m from the cliff face below the summit all the way to the floor.",
+        "img": "",
+        "category": "mountain",
+        "country": "UAE",
+        "link": "https://www.atlasandboots.com/travel-blog/most-beautiful-mountains-in-the-world/",
+        "thumbnail": "https://www.atlasandboots.com/wp-content/uploads/2019/05/mount-thor-most-beautiful-mountains-in-the-world-1024x683.jpg"
+    },
+    {
+        "name": "ALPAMAYO",
+        "desc": "Often referred to as the most beautiful mountain in the world, Alpamayo lies in the heart of Peru’s Cordillera Blanca. With a steep pyramidal shape and Viennetta flutes that look practically edible, Alpamayo remains a highly coveted summit.",
+        "img": "",
+        "category": "mountain",
+        "country": "UAE",
+        "link": "https://www.atlasandboots.com/travel-blog/most-beautiful-mountains-in-the-world/",
+        "thumbnail": "https://www.atlasandboots.com/wp-content/uploads/2019/05/alpamayo-most-beautiful-mountains-in-the-world-1024x683.jpg"
+    },
+    {
+        "name": "MATTERHORN",
+        "desc": "The Matterhorn is clearly one of the most beautiful mountains in the world. Often credited with the birth of Alpinism in the mid-19th century, the iconic pyramidal peak is successfully summited by thousands of climbers every year with up to 150 attempting an ascent every day during peak season.",
+        "img": "",
+        "category": "mountain",
+        "country": "UAE",
+        "link": "https://www.atlasandboots.com/travel-blog/most-beautiful-mountains-in-the-world/",
+        "thumbnail": "https://www.atlasandboots.com/wp-content/uploads/2016/02/Mountaineering-calendar-matterhorn--1024x682.jpg"
+    },
+    {
+        "name": "AMA DABLAM",
+        "desc": "Ama Dablam is widely regarded as one of the most beautiful mountains in the world. Situated in the heart of Everest’s Khumbu Region, it looms directly above Thyangboche Monastery on the Everest Base Camp Trek.",
+        "img": "",
+        "category": "mountain",
+        "country": "UAE",
+        "link": "https://www.atlasandboots.com/travel-blog/most-beautiful-mountains-in-the-world/",
+        "thumbnail": "https://www.atlasandboots.com/wp-content/uploads/2019/05/ama-dablam2-most-beautiful-mountains-in-the-world.jpg"
+    },
+    {
+        "name": "HALF DOME",
+        "desc": "Half Dome in Yosemite National Park is one of the world’s best big wall climbs. The first technical ascent was in 1957 via a route known today as the Regular Northwest Face. The ascent – which took five days – was the first Grade VI climb in the US.",
+        "img": "",
+        "category": "mountain",
+        "country": "UAE",
+        "link": "https://www.atlasandboots.com/travel-blog/most-beautiful-mountains-in-the-world/",
+        "thumbnail": "https://www.atlasandboots.com/wp-content/uploads/2016/03/big-wall-half-dome-1024x682.jpg"
+    },
+    {
+        "name": "ULVETANNA PEAK",
+        "desc": "Ulvetanna is undoubtedly one of the most beautiful mountains in the world. Tolkienesque in appearance, it rises crown-like above a landscape of white.",
+        "img": "",
+        "category": "mountain",
+        "country": "UAE",
+        "link": "https://www.atlasandboots.com/travel-blog/most-beautiful-mountains-in-the-world/",
+        "thumbnail": "https://www.atlasandboots.com/wp-content/uploads/2016/03/big-wall-mount-ulvetanna-and-fenris-mountains-gordon-wiltsie.jpg"
+    },
+    {
+        "name": "Atacama Desert, Chile",
+        "desc": "For an out-of-this-world adventure, look no further than the Atacama Desert in western Chile. With jagged ravines, billowing geysers and arid salt flats, there’s an extra-terrestrial quality to its landscapes that NASA once harnessed to field test Martian rovers. As one of the driest places on the planet, there’s very little in the way of human development surrounding its barren plains. That said, the resulting lack of light pollution makes the sky perfect for stargazing.",
+        "img": "",
+        "category": "adventure",
+        "country": "Chile",
+        "link": "https://www.roughguides.com/gallery/the-most-adventurous-places-to-travel/",
+        "thumbnail": "https://deih43ym53wif.cloudfront.net/large_atacama-desert-chile-shutterstock_561125371_f1ed44915b.jpeg"
+    },
+    
+    {
+        "name": "Ciudad Perdida (Lost City), Colombia",
+        "desc": "Deep in the jungle-swathed mountains of Sierra Nevada lies La Ciudad Perdida, Colombia’s fabled ruined city dubbed “the new Machu Picchu”. Built in 800AD by the indigenous Tayrona tribes, it was abandoned following a run-in with Spanish conquistadors and largely forgotten, until looters rediscovered it in the 1970s. You’ll need to make like Indiana Jones if you want to see it for yourself, as the high-altitude trek up involves a three-day trudge through humid cloudforest.",
+        "img": "",
+        "category": "adventure",
+        "country": "Colombia",
+        "link": "https://www.roughguides.com/gallery/the-most-adventurous-places-to-travel/",
+        "thumbnail": "https://deih43ym53wif.cloudfront.net/large_kiwi-road-ngauruhoe-tongariro-new-zealand-shutterstock_1401414941_f6561f22d1.jpeg"
+    },
+    {
+        "name": "The Galapágos Islands, Ecuador",
+        "desc": "Once considered a forbidding archipelago, the Galapágos Islands only came to the fore when Charles Darwin published The Origin of Species. The unique wildlife here has evolved to be fearless, stemming from the lack of predators on the volcanic isles, so you can easily snorkel with marine iguanas or share the rocky outcrops with groups of giant tortoises. The islands have recently become more popular, but strict controls on tourists mean the human footprint is kept to a minimum.",
+        "img": "",
+        "category": "adventure",
+        "country": "Ecuador",
+        "link": "https://www.roughguides.com/gallery/the-most-adventurous-places-to-travel/",
+        "thumbnail": "https://deih43ym53wif.cloudfront.net/large_marine-iguanas-galapagos-ecuador-shutterstock_683241898_78b3338078.jpeg"
+    },
+    {
+        "name": "Mahale Mountains National Park, Tanzania",
+        "desc": "Beside Lake Tanganyika in western Tanzania, Mahale Mountains National Park is arguably the best place to track Africa’s last remaining wild chimpanzees. There are around a thousand living here in the lowland forests, including the habituated Mimikere or ‘M’ group. But reaching them is no easy task: the journey involves a steep and strenuous climb through dense vegetation. As Tanzania’s most remote national park, Mahale Mountains has no roads and is only reachable by boat or chartered flight.",
+        "img": "",
+        "category": "adventure",
+        "country": "Colombia",
+        "link": "https://www.roughguides.com/gallery/the-most-adventurous-places-to-travel/",
+        "thumbnail": "https://deih43ym53wif.cloudfront.net/large_village-papua-new-guinea-shutterstock_543131899_bc6909595d.jpeg"
+    },
+    {
+        "name": "The Galapágos Islands, Ecuador",
+        "desc": "Once considered a forbidding archipelago, the Galapágos Islands only came to the fore when Charles Darwin published The Origin of Species. The unique wildlife here has evolved to be fearless, stemming from the lack of predators on the volcanic isles, so you can easily snorkel with marine iguanas or share the rocky outcrops with groups of giant tortoises. The islands have recently become more popular, but strict controls on tourists mean the human footprint is kept to a minimum.",
+        "img": "",
+        "category": "adventure",
+        "country": "Ecuador",
+        "link": "https://www.roughguides.com/gallery/the-most-adventurous-places-to-travel/",
+        "thumbnail": "https://deih43ym53wif.cloudfront.net/large_gentoo-penguin-antarctica-shutterstock_1060422422_deb3e074c2.jpeg"
+    }
+    
+]
